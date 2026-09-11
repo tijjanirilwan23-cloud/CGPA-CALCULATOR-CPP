@@ -1,4 +1,4 @@
-STUDENT cgpa CALCOLATOR
+STUDENT CGPA CALCULATOR
 
 ABOUT
 This is a beginner friendly C++ program designed to calculate a student's total credit units and CGPA based on their courses, credit units, and grades. 
